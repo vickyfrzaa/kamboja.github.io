@@ -1,0 +1,24 @@
+section.table {
+    border-style: solid;
+    border-color: rgb(242, 255, 0);
+}
+
+.borders {
+    box-shadow: rgba(242, 255, 0) 0px 14px 28px, rgba(242, 255, 0) 0px 10px 10px;
+}
+
+hr.garis {
+    border: 1px solid black;
+}
+
+.text-isi {
+    text-align: justify;
+}
+
+.bullets {
+    list-style-type: square;
+}
+
+.card-isi {
+    box-shadow: rgba(242, 255, 0) 0px 14px 28px, rgba(242, 255, 0) 0px 10px 10px;
+}
